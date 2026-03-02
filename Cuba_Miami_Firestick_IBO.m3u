@@ -1,0 +1,79 @@
+#EXTM3U url-tvg="Cuba_Miami_Full_EPG.xml"
+
+############################
+# 🇨🇺 CUBA - NATIONAL TV
+############################
+
+#EXTINF:-1 tvg-id="CubavisionInt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Cubavision_Internacional_logo.png" group-title="🇨🇺 CUBA",Cubavisión Internacional
+https://video.cubavision.cu/hls/cubavisioninternacional.m3u8
+https://iptv-org.github.io/iptv/countries/cu/cubavisioninternacional.m3u8
+
+#EXTINF:-1 tvg-id="CanalCaribe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Canal_Caribe_logo.png" group-title="🇨🇺 CUBA",Canal Caribe
+https://video.cubavision.cu/hls/canalcaribe.m3u8
+https://iptv-org.github.io/iptv/countries/cu/canalcaribe.m3u8
+
+#EXTINF:-1 tvg-id="TeleRebelde" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Tele_Rebelde_logo.png" group-title="🇨🇺 CUBA",Tele Rebelde
+https://video.cubavision.cu/hls/telerebelde.m3u8
+https://iptv-org.github.io/iptv/countries/cu/telerebelde.m3u8
+
+#EXTINF:-1 tvg-id="Multivision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Multivision_logo.png" group-title="🇨🇺 CUBA",Multivisión
+https://iptv-org.github.io/iptv/countries/cu/multivision.m3u8
+
+#EXTINF:-1 tvg-id="Educativo1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Educativo_logo.png" group-title="🇨🇺 CUBA",Educativo 1
+https://iptv-org.github.io/iptv/countries/cu/educativo.m3u8
+
+#EXTINF:-1 tvg-id="Educativo2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Educativo_logo.png" group-title="🇨🇺 CUBA",Educativo 2
+https://iptv-org.github.io/iptv/countries/cu/educativo2.m3u8
+
+#EXTINF:-1 tvg-id="HabanaTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Habana_TV_logo.png" group-title="🇨🇺 CUBA",Habana TV
+https://iptv-org.github.io/iptv/countries/cu/habana.m3u8
+
+############################
+# 🇨🇺 CUBA - RADIO
+############################
+
+#EXTINF:-1 tvg-id="RadioRebelde" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Radio_Rebelde_logo.png" group-title="🇨🇺 CUBA RADIO",Radio Rebelde
+https://stream.zeno.fm/0zkr7v8n0x8uv
+
+#EXTINF:-1 tvg-id="RadioHabanaCuba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Radio_Habana_Cuba_logo.png" group-title="🇨🇺 CUBA RADIO",Radio Habana Cuba
+https://stream.zeno.fm/f3c9v0h1v8zuv
+
+#EXTINF:-1 tvg-id="RadioProgreso" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Radio_Progreso_logo.png" group-title="🇨🇺 CUBA RADIO",Radio Progreso
+https://stream.zeno.fm/4wqre23fytzuv
+
+############################
+# 🇨🇺 CUBA - MUSIC & MOVIES
+############################
+
+#EXTINF:-1 tvg-id="CubavisionMusic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Cubavision_Music_logo.png" group-title="🇨🇺 CUBA MUSIC",Cuba Music TV
+https://iptv-org.github.io/iptv/countries/cu/cubavisionmusic.m3u8
+
+#EXTINF:-1 tvg-id="CineCuba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/CineCuba_logo.png" group-title="🇨🇺 CUBA MOVIES",Cine Cuba 24/7
+https://iptv-org.github.io/iptv/countries/cu/cinecuba.m3u8
+
+#EXTINF:-1 tvg-id="CubaniaTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Cubania_TV_logo.png" group-title="🇨🇺 CUBA ENTERTAINMENT",Cubanía TV
+https://stream.zeno.fm/cubania
+
+#EXTINF:-1 tvg-id="CubavisionMiami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Cubavision_Internacional_logo.png" group-title="🇺🇸 MIAMI CUBA",Cubavisión Miami
+https://stream.zeno.fm/cubavisionmiami
+
+############################
+# 🇺🇸 MIAMI CUBA DIASPORA
+############################
+
+#EXTINF:-1 tvg-id="AmericaTeve" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/America_Teve_logo.png" group-title="🇺🇸 MIAMI CUBA",América Tevé
+https://cdn.americateve.com/live/americateve.m3u8
+https://iptv-org.github.io/iptv/us/AmericaTeve.m3u8
+
+#EXTINF:-1 tvg-id="MegaTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Mega_TV_logo.png" group-title="🇺🇸 MIAMI CUBA",Mega TV
+https://mdstrm.com/live-stream-playlist/mega.m3u8
+https://iptv-org.github.io/iptv/us/MegaTV.m3u8
+
+#EXTINF:-1 tvg-id="Telemundo51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Telemundo_51_logo.png" group-title="🇺🇸 MIAMI CUBA",Telemundo 51 Miami
+https://nbcuni-live.akamaized.net/hls/live/2039019/WSCVHD/master.m3u8
+
+#EXTINF:-1 tvg-id="Univision23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Univision_23_Miami_logo.png" group-title="🇺🇸 MIAMI CUBA",Univision 23 Miami
+https://liveunivision.akamaized.net/hls/live/2039017/univisionmiami/master.m3u8
+
+#EXTINF:-1 tvg-id="MartiTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TV_Marti_logo.png" group-title="🇺🇸 MIAMI CUBA",Martí TV
+https://ocb-ingest.akamaized.net/hls/live/2037039/tvmarti/master.m3u8
